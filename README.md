@@ -8,5 +8,8 @@
 ### 데이터사이언스 기반 지능 소프트웨어 과정 
 ![image](https://github.com/dduniverse/datacampus/assets/101264299/a35dd34b-c832-4b68-a9b8-a54623259d52)
 
+<br>
 
+### [갯녹음 위험 예측을 통한 바다숲 조성 우선 지역 선별](https://github.com/dduniverse/datacampus/tree/main/project)
+![image](https://github.com/dduniverse/datacampus/assets/101264299/a512b1fe-0fe2-43db-a100-4cc5840948f1)
 
