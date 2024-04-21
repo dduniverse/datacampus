@@ -47,4 +47,7 @@
 #### 개발 환경
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/google drive-3776AB?style=for-the-badge&logo=googledrive&logoColor=white"> <img src="https://img.shields.io/badge/notion-A0A0A0?style=for-the-badge&logo=Notion&logoColor=white">
 
+#### 논문
+[김미진, 김유림, 김수현, 김효연, 이철민, 김가영(2022). 갯녹음 위험 예측을 통한 바다숲 조성 우선 지역 선별. (사)한국정보기술전략혁신학회 정보학 연구 25권 1호](https://www.kiiti.org/default/03/05.php?com_board_basic=read_form&com_board_idx=1&&com_board_search_code=&com_board_search_value1=&com_board_search_value2=&com_board_page=&&com_board_id=12&&com_board_id=12)
+
 ![image](https://github.com/dduniverse/datacampus/assets/101264299/a512b1fe-0fe2-43db-a100-4cc5840948f1)
